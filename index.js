@@ -62,3 +62,8 @@ const PORT = 3000;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
+
+//for adding some new feature we use 
+// feat: 'for commit comment'
+//bug-fix--> fix:
+//use ful chores --> chor:
